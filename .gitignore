@@ -2,8 +2,10 @@ coverage/
 types/
 
 .turbo
+.nitro
+.output
+.vinxi
 
-packages/create-solid/bin
 *.log
 
 playground
@@ -43,3 +45,6 @@ netlify
 .vercel
 
 vite.config.ts.timestamp*
+
+.nitro
+.output
